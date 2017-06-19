@@ -3,3 +3,4 @@ uInitrdNoinst
 uMyinitrd
 *.scr
 setup-ubuntu.tgz
+script.bin
