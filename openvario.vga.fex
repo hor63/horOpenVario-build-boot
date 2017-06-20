@@ -977,7 +977,7 @@ key_max = 40
 
 [dvfs_table]
 max_freq = 912000000
-min_freq = 720000000
+min_freq = 312000000
 LV_count = 7
 LV1_freq = 1008000000
 LV1_volt = 1450
