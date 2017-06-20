@@ -125,7 +125,7 @@ twi0_scl = port:PB00<2><default><default><default>
 twi0_sda = port:PB01<2><default><default><default>
 
 [twi1_para]
-twi1_used = 0
+twi1_used = 1
 twi1_scl = port:PB18<2><default><default><default>
 twi1_sda = port:PB19<2><default><default><default>
 
