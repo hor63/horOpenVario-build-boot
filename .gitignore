@@ -1,6 +1,6 @@
-uImage
+zImage
 uInitrdNoinst
 uMyinitrd
 *.scr
+*.dtb
 setup-ubuntu.tgz
-*.bin
