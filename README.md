@@ -5,7 +5,7 @@
 # Open Vario on Cubieboard 2 running Ubuntu
 ## openVario/build/boot
 
-This repository is a sub-module of the main repository [openVario](https://github.com/hor63/openVario).
+This repository is a sub-module of the main repository [horOpenVario](https://github.com/hor63/horOpenVario.git).
 
 This repository by itself is mostly useless.
 
