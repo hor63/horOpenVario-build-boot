@@ -1,6 +1,7 @@
 zImage
 uInitrdNoinst
-uMyinitrd
+uinitrd*
+uMyinitrd*
 *.scr
 *.dtb
 setup-ubuntu.tgz
